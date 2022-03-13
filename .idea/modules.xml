@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_IO/1_IO.iml" filepath="$PROJECT_DIR$/1_IO/1_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms/Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructures/DataStructures.iml" filepath="$PROJECT_DIR$/DataStructures/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javase/Javase.iml" filepath="$PROJECT_DIR$/Javase/Javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aaa/aaa.iml" filepath="$PROJECT_DIR$/aaa/aaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javadesignpatterns/exercise.iml" filepath="$PROJECT_DIR$/javadesignpatterns/exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hangdianoj/hangdianoj.iml" filepath="$PROJECT_DIR$/hangdianoj/hangdianoj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java核心技术(卷一)/java核心技术(卷一).iml" filepath="$PROJECT_DIR$/java核心技术(卷一)/java核心技术(卷一).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lanqiaobei/lanqiaobei.iml" filepath="$PROJECT_DIR$/lanqiaobei/lanqiaobei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luogu/luogu.iml" filepath="$PROJECT_DIR$/luogu/luogu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/randomthoughts/randomthoughts.iml" filepath="$PROJECT_DIR$/randomthoughts/randomthoughts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teaShop/teaShop.iml" filepath="$PROJECT_DIR$/teaShop/teaShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test01/test01.iml" filepath="$PROJECT_DIR$/test01/test01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/中级算法/中级算法.iml" filepath="$PROJECT_DIR$/中级算法/中级算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/初步算法/初步算法.iml" filepath="$PROJECT_DIR$/初步算法/初步算法.iml" />
+    </modules>
+  </component>
+</project>

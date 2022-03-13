@@ -1,0 +1,12 @@
+1.将String类型转化成int类型
+Integer.parseInt(String s)
+Integer.valueOf(String s)
+Double.parseDouble(String s)// 将String类型转化成Double类型
+
+2.将int类型转化成String类型
+Integer.toString(int i)
+String.valueOf(int i)
+i+""
+Double.toString(Double x)// 将Double类型转化成String类型
+
+
